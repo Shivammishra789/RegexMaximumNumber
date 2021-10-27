@@ -1,7 +1,7 @@
 package regex.Maximum;
 import org.junit.Test;
 
-import junit.framework.Assert;
+import org.junit.Assert;
 public class LargestNumberInArrayTest {
 
 	@Test
